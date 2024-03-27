@@ -11,7 +11,8 @@
     "url": "git+https://github.com/Bravooos/tea-demonstrationBraooos.git"
   },
     "dependencies": {
-    "minti_fulkerson": "0.1.4."
+      "tea-demonstrationbraooos": "1.0.0",
+      "tea-demonstrationdulenkoaleksandr": "1.0.0"
   },
   "author": "",
   "license": "ISC",
