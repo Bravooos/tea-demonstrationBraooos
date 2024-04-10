@@ -11,7 +11,6 @@
     "url": "git+https://github.com/Bravooos/tea-demonstrationBraooos.git"
   },
     "dependencies": {
-      "tea-demonstrationbraooos": "1.0.0",
       "tea-demonstrationdulenkoaleksandr": "1.0.0"
   },
   "author": "",
